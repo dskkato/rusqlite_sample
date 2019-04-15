@@ -1,0 +1,9 @@
+[package]
+name = "rusqlite_sample"
+version = "0.1.0"
+authors = ["Daisuke Kato <kato.daisuke429@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+time = "0.1.0"
+rusqlite = "0.17.0"
